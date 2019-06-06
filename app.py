@@ -8,8 +8,9 @@ load_dotenv()
 
 client_id = os.getenv('CLIENT_ID')
 client_secret = os.getenv('CLIENT_SECRET')
-username= os.getenv('USERNAME')
 redirect_uri= os.getenv('REDIRECT_URI')
+
+username = '213bpen2gwuszdai55l54tmca'
 
 try:
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
