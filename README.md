@@ -20,8 +20,13 @@
 
 - Run a `python` server `python -m http.server`
 - Run the app `python app.py`
-![Alt text](img/run.png?raw=true "Main")
+
+![Alt text](img/run.PNG?raw=true "Run")
+
 - Copy the web address on the browser and paste it in the console
-![Alt text](img/auth_code.png?raw=true "Main")
+
+![Alt text](img/auth_code.PNG?raw=true "Auth")
+
 - you will get the names of the playlists including private ones
-![Alt text](img/playlists.png?raw=true "Main")
+
+![Alt text](img/playlists.PNG?raw=true "Playlists")
